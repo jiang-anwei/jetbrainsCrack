@@ -14,12 +14,12 @@
  3. 点击你要注册的IDE菜单："Configure" 或 "Help" -> "Edit Custom VM Options ..."
     如果提示是否要创建文件，请点"Yes"；
  
- 4. 在打开的vmoptions编辑窗口末行添加：-javaagent:/absolute path/jetbrains-agent-2019.X.XX.jar
-    一定要自己确认好路径(不要使用中文路径，不要有空格)，填错会导致IDE打不开！！！最好使用绝对路径。
-	一个vmoptions内只能有一个-javaagent参数。
-    示例:
+ 4. 在打开的vmoptions编辑窗口末行添加：-javaagent:/absolute path/jetbrains-agent-2019.X.XX.jar，一定要自己确认好路径(不要使用中文路径，不要有空格)，填错会导致IDE打不开！！！最好使用绝对路径。一个vmoptions内只能有一个-javaagent参数。    
+示例:
       mac:      -javaagent:/Users/neo/jetbrains-agent-2019.X.X.jar
+
       linux:    -javaagent:/home/neo/jetbrains-agent-2019.X.X.jar
+
       windows:  -javaagent:C:\Users\neo\jetbrains-agent-2019.X.X.jar
 
 5. 重启你的IDE(<font color=red>非常重要</font>)
