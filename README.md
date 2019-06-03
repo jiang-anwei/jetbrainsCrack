@@ -42,12 +42,15 @@ Entry license server address: **http://jetbrains-license-server**  (maybe autofi
 
 
  本项目只做学习研究之用，不得用于商业用途！
+ 
  若资金允许，请购买[正版][1]，谢谢合作！
+ 
  学生凭学生证可免费[申请][2]正版授权！
+ 
  创业公司可[5折购买] [3] 正版授权！
 
 [1]:https://www.jetbrains.com/idea/buy
 [2]:https://sales.jetbrains.com/hc/zh-cn/articles/207154369-学生授权申请方式
 [3]:https://www.jetbrains.com/shop/eform/startup
-[4]:https://github.com/ifkid/JetBrainsCrack/blob/master/README.MD#使用教程
-[5]:https://github.com/ifkid/JetBrainsCrack/blob/master/README.MD#Usage
+[4]:https://github.com/ifkid/JetBrainsCrack/master/README.MD#使用教程
+[5]:https://github.com/ifkid/JetBrainsCrack/master/README.MD#Usage
